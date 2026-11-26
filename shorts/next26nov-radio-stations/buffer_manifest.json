@@ -1,0 +1,11 @@
+{
+ "video": "edits/next_26nov/short/video.mp4",
+ "cover": "edits/next_26nov/short/cover.png",
+ "title_file": "edits/next_26nov/short/title.txt",
+ "caption_file": "edits/next_26nov/short/caption.txt",
+ "youtube_description_file": "edits/next_26nov/short/description.txt",
+ "tags_file": "edits/next_26nov/short/tags.txt",
+ "ai_content_label": true,
+ "made_for_kids": false,
+ "status": "ready (auto QA pass except speech-to-text not run)"
+}
